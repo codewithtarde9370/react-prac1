@@ -1,0 +1,48 @@
+.cakecard,.bdaycard{
+    height: 400px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(221, 14, 124);
+    color:  rgb(88, 167, 241);
+    padding: 10px;
+    margin: 40px 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.cakeimg img,.bdaycardimg img{
+    height: 200px;
+    width: 250px;
+    border-radius: 20px;
+    margin:10px 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.bdaycard{
+    height: 400px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(88, 167, 241);
+    color:  rgb(221, 14, 124);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 40px 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.bdaycard span,.cakecard span{
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+
+}
