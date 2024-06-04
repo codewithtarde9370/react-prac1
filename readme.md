@@ -10,5 +10,5 @@ Contains Cards using two components for Birthday Wish and Cake.
 **JavaScript:** For adding interactivity and enhancing the user experience.
 **Responsive Design:** The website is fully responsive and optimized for viewing on different devices, ensuring a seamless experience on desktops, tablets, and smartphones.
 
-![Screenshot of homepage](./images/readme/dark.png)
+![Screenshot of homepage](./src/components/img/readme.png)
 
