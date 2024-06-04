@@ -1,4 +1,4 @@
-# Disha Computers
+# React Birthday Cards
 **React Cards Using Components** project! This repository contains the source code for react cards for birthdays and cake. The project is build just for a practice using HTML, CSS, and JavaScript and ReactJs.
 
 # Project Overview
